@@ -56,4 +56,4 @@ mshta.exe wsatoolbox.hta
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/voletro/wsa-toolbox/blob/main/LICENSE.md) for more information.
+Distributed under the GNU GPLv3 license. See [LICENSE](https://github.com/voletro/wsa-toolbox/blob/main/LICENSE.txt) for more information.
