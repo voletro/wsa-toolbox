@@ -39,7 +39,7 @@ This project also uses a customised version of the [Simple Android Launcher](htt
 
 ## Getting Started
 
-**See the releases tab for the latest versions of this application, available in an EXE file. Simply run the file to start the tool.**
+**See the [releases](https://github.com/voletro/wsa-toolbox/releases) tab for the latest versions of this application, available in an EXE file. Simply run the file to start the tool.**
 
 To see how to build this app, read on:
 
