@@ -17,7 +17,7 @@
 
 ## About The Project
 
-![Screenshot](https://i.imgur.com/F5KdCsl.png)
+![Screenshot](images/screenshot.png)
 
 This project includes tools to install and use the Windows Subsystem For Android™ platform on Windows 11. 
 These tools include:
