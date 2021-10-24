@@ -59,7 +59,7 @@ git clone https://github.com/voletro/wsa-toolbox.git
 mshta.exe wsatoolbox.hta
 ```
 
-4. Find entire source code for other scripts and batch files in the same folder.
+4. Build the Executable by using [The Batchman](https://github.com/jeremyben/thebatchman).
 
 ## License
 
