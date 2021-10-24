@@ -25,7 +25,7 @@ These tools include:
 * Installation of Windows Subsystem For Android™ in unsupported regions.
 * Installation of the Aurora Store as an alternative to the Google Play Store.
 
-This tool was inspired by the Fire Toolbox application, which was used to gain unintended functionality on Amazon Fire Tablets, easily and safely.
+This tool was inspired by the [Fire Toolbox](https://forum.xda-developers.com/t/windows-tool-fire-toolbox-v24-0.3889604/) application, which was used to gain unintended functionality on Amazon Fire Tablets, easily and safely.
 
 ## Built With
 
