@@ -17,7 +17,15 @@
 
 ## About The Project
 
-This project includes 
+This project includes tools to install and use the Windows Subsystem For Android™ platform on Windows 11. 
+These tools include:
+
+* Installation of any APK file in one click.
+* Access to the ADB Shell.
+* Installation of Windows Subsystem For Android™ in unsupported regions.
+* Installation of the Aurora Store as an alternative to the Google Play Store.
+
+This tool was inspired by the Fire Toolbox application, which was used to gain unintended functionality on Amazon Fire Tablets, easily and safely.
 
 ## Built With
 
