@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<HTML>
+<HEAD>
+  <TITLE>WSA Toolbox</TITLE>
+    <HTA:APPLICATION ID="wsaToolbox"
+     APPLICATIONNAME="wsaToolbox"
+     BORDER="thin"
+     BORDERSTYLE="normal"
+     CAPTION="yes"
+     ICON="images/icon.ico"
+     MAXIMIZEBUTTON="no"
+     MINIMIZEBUTTON="yes"
+     SHOWINTASKBAR="yes"
+     SINGLEINSTANCE="yes"
+     SYSMENU="yes"
+     VERSION="1.0"
+     INNERBORDER="no"
+     CONTEXTMENU="no"
+     SCROLL="no"
+     SELECTION="no"/>
+     <script type="text/javascript">
+        window.resizeTo(400,450);
+    </script>
+    <script LANGUAGE="VBScript">
+    Set objShell = CreateObject("Wscript.Shell")
+    </script>
+    <style>
+    .button {
+  	background-color: #088142; /* Green */
+  	border: none;
+  	color: white;
+  	padding: 15px 32px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 16px;
+  	margin-bottom: 10px;
+	}
+	.button:hover {
+	background-color: #4ed062;
+	}
+    </style>
+</HEAD>
+<BODY SCROLL="no">
+
+    <INPUT TYPE="button" ID="installAPK" VALUE="Install APK File" onclick="vbscript:objShell.Run 'installAPK.vbs'" style="width: 100%" class="button"></INPUT>
+    <INPUT TYPE="button" class="button" ID="installAurora" VALUE="Install Aurora Store (Google Play Alternative)" onclick="vbscript:objShell.Run 'installAurora.vbs'" style="width: 100%"></INPUT>
+    <INPUT TYPE="button" class="button" ID="installLauncher" VALUE="Install App Launcher" onclick="vbscript:objShell.Run 'installLauncher.vbs'" style="width: 100%"></INPUT>
+    <INPUT TYPE="button" class="button" ID="adbShell" VALUE="Launch ADB Shell" onclick="vbscript:objShell.Run 'adbShell.vbs'" style="width: 100%"></INPUT>
+
+    <INPUT TYPE="button" class="button" ID="WSAInstall" VALUE="Install WSA (United States)" onclick="vbscript:objShell.Run 'WSAInstall.bat'" style="width: 100%"></INPUT>
+    <INPUT TYPE="button" class="button" ID="WSAInstallAlt" VALUE="Install WSA (International)" onclick="vbscript:objShell.Run 'WSAInstallAlt.bat'" style="width: 100%"></INPUT>
+</BODY>
+</HTML>
