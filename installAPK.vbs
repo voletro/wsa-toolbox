@@ -17,8 +17,9 @@ Else
 	If (Len(APKFile) = 0) Then
     	WScript.Quit
 	Else
+		FinalAPK = chr(34) & APKFile & chr(34)
 		Set objShell = CreateObject("Wscript.Shell")
-    	Item = "installAPK.bat " & APKFile
+    	Item = "installAPK.bat " & FinalAPK
     	objShell.Run Item
 	End If
 End If
