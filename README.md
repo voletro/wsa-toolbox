@@ -28,6 +28,11 @@ These tools include:
 * Installation of the Aurora Store as an alternative to the Google Play Store.
 * Installation of a simple app launcher for easy access to other apps.
 
+COMING SOON:
+* Installation of any APK file by just double clicking on it
+* Drag and drop functionality for APK on the window.
+* Add a file queue to queue up installations
+
 This tool was inspired by the [Fire Toolbox](https://forum.xda-developers.com/t/windows-tool-fire-toolbox-v24-0.3889604/) application, which was used to gain unintended functionality on Amazon Fire Tablets, easily and safely.
 
 ## Built With
