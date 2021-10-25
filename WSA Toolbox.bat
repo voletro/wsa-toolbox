@@ -2,8 +2,7 @@
 @echo off
 set arg1=%1
 IF [%1]==[] (
-start wsatoolbox.hta
-exit
+wsatoolbox.hta
 ) ELSE (
 echo Installing...
 adb.exe disconnect
