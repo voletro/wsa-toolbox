@@ -27,9 +27,10 @@ These tools include:
 * Installation of Windows Subsystem For Android™ in unsupported regions.
 * Installation of the Aurora Store as an alternative to the Google Play Store.
 * Installation of a simple app launcher for easy access to other apps.
+* Installation of any APK file by just double clicking on it
 
 COMING SOON:
-* Installation of any APK file by just double clicking on it
+
 * Drag and drop functionality for APK on the window.
 * Add a file queue to queue up installations
 
