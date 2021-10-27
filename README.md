@@ -10,6 +10,7 @@
     An awesome Windows Application to easily install and use the Windows Subsystem For Android™.
     <br/>
     <br/>
+  [Reddit Link](https://www.reddit.com/r/Windows11/comments/qfch1y/wsa_toolbox_for_the_android_subsystem/)
   </p>
 </p>
 
