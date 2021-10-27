@@ -47,6 +47,8 @@ This project also uses a customised version of the [Simple Android Launcher](htt
 
 **See the [releases](https://github.com/voletro/wsa-toolbox/releases) tab for the latest versions of this application, available in an EXE file. Simply run the file to start the tool.**
 
+**Make sure you enable "Developer Options" in the Windows Subsystem for Android Settings App to make this toolbox function.**
+
 You can get installation instructions for installing the Windows Subsystem for Android package [here](https://github.com/voletro/wsa-toolbox/blob/main/installation.md).
 
 To see how to build this app, read on:
