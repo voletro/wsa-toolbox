@@ -17,6 +17,8 @@
 
 ## About The Project
 
+**A full rewrite of this project will happen soon. I've just gone back to school, so I probably wont be able to respond to issues for a few weeks. Please do not expect any changes or updates for a few weeks.**
+
 ![Screenshot](images/screenshot.png)
 
 This project includes tools to install and use the Windows Subsystem For Android™ platform on Windows 11. 
