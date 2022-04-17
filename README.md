@@ -69,7 +69,7 @@ git clone https://github.com/voletro/wsa-toolbox.git
 mshta.exe wsatoolbox.hta
 ```
 
-4. Build the Executable by using [The Batchman](https://github.com/jeremyben/thebatchman).
+3. Build the Executable by using [The Batchman](https://github.com/jeremyben/thebatchman).
 
 ## License
 
