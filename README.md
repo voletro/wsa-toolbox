@@ -1,3 +1,14 @@
+# DEPRECATED!
+
+## This project has been archived. Thank you for all the support.
+
+Here is a list of other open-source alternatives that do similar things to WSAToolbox.
+
+ - [wsa_pacman](https://github.com/alesimula/wsa_pacman) by alesimula
+ - [WSATools](https://github.com/Simizfo/WSATools) by Simone Franco (not yet open-source)
+ - [APK Installer](https://github.com/Paving-Base/APK-Installer) by Paving-Base
+ - [EasySideload-WSA](https://github.com/HarshalKudale/EasySideload-WSA) by HarshalKudale
+
 <br/>
 <p align="center">
   <a href="https://github.com/voletro/wsa-toolbox">
